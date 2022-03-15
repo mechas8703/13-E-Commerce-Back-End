@@ -1,5 +1,7 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
+![GitHub license](https://img.shields.io/badge/made%20by-Maria%20Cardona-brightgreen)
+
 ## Your Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
@@ -16,7 +18,7 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria ✅
 
 ```md
 GIVEN a functional Express.js API
@@ -32,3 +34,12 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
+## Deployment
+* [Github Repo](https://github.com/mechas8703/13-E-Commerce-Back-End)
+<!-- * [Video](https://drive.google.com/file/d/1reEKz8yp-IG23R0L1Wl0K4OrL9cdLc_E/view) --> 
+
+## Employee Tracker
+<!-- ![Employee Tracker](./assets/images/capture1.JPG) -->
+
+
+<!-- ![Employee Tracker](./assets/images/capture2.JPG) -->
