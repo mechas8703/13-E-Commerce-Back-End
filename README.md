@@ -36,10 +36,17 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Deployment
 * [Github Repo](https://github.com/mechas8703/13-E-Commerce-Back-End)
-<!-- * [Video](https://drive.google.com/file/d/1reEKz8yp-IG23R0L1Wl0K4OrL9cdLc_E/view) --> 
-
-## Employee Tracker
-<!-- ![Employee Tracker](./assets/images/capture1.JPG) -->
+* [Link](https://mechas8703.github.io/13-E-Commerce-Back-End/)
 
 
-<!-- ![Employee Tracker](./assets/images/capture2.JPG) -->
+## E-Commerce Back End
+
+![Get All](./Assets/video1.gif)
+
+
+![Get All](./Assets/getall.gif)
+
+
+![Get All](./Assets/getall.gif)
+
+
