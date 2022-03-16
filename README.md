@@ -46,7 +46,7 @@ THEN I am able to successfully create, update, and delete data in my database
 * [Get All](https://drive.google.com/file/d/1R2hG7BtZTXI5fdM8F3pylFnFVIjvbC97/view)
 * ![Get All](./Assets/getall.gif)
 
-* [Get, Post, Delete](https://drive.google.com/file/d/1MxzU1KAKOQpnuWPGAuQ1is2ff-cwPr1S/view)
+* [POST, PUT, and DELETE](https://drive.google.com/file/d/1MxzU1KAKOQpnuWPGAuQ1is2ff-cwPr1S/view)
 * ![Delete](./Assets/video2.gif)
 
 
