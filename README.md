@@ -40,13 +40,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## E-Commerce Back End
+* [Link](https://drive.google.com/file/d/1ZsV7A4jp4S6C3Ky0Q89U7BtRZAJbzK87/view)
+![Server Running](./Assets/video1.gif)
 
-![Get All](./Assets/video1.gif)
-
-
+* [Link](https://drive.google.com/file/d/1R2hG7BtZTXI5fdM8F3pylFnFVIjvbC97/view)
 ![Get All](./Assets/getall.gif)
 
-
-![Get All](./Assets/getall.gif)
+* [Link](https://drive.google.com/file/d/1MxzU1KAKOQpnuWPGAuQ1is2ff-cwPr1S/view)
+![Delete](./Assets/video2.gif)
 
 
